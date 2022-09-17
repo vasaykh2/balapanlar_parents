@@ -1,6 +1,6 @@
 # Проект: Balapanlar
 
-ссылка на задачи Trello https://trello.com/b/YSiFsc7c/workspace-team-3 
+ссылка на задачи Trello https://trello.com/b/YSiFsc7c/workspace-team-3
 
 https://melphi-s.github.io/balapanlar/
 
@@ -9,4 +9,6 @@ https://melphi-s.github.io/balapanlar/
 Создан студентами Яндекс.Практикум.
 
 ## Ссылки
+
 [Яндекс.Практикум](https://practicum.yandex.ru/)
+[Ссылка на GitHub](https://vasaykh2.github.io/balapanlar_parents/)
